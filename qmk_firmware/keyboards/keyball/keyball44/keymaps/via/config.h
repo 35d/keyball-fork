@@ -39,5 +39,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define AUTO_MOUSE_DEFAULT_LAYER 1
 
 // SEE https://qiita.com/cognitom/items/a3985e44749d55d900b5
-#define TAPPING_TERM 150
+#define TAPPING_TERM 100
+#define TAP_HOLD_DELAY 100
 #define PERMISSIVE_HOLD
